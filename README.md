@@ -22,3 +22,5 @@ Las divisas consideradas fueron las siguientes:
 - MXN - Peso mexicano
 
 Al final de la conversion, se le pide al usuario si desea realizar otra conversión, en dado caso de que el usuario ya no quiere realizar más, el programa se finalizara
+
+<img src="Badge-Conversor.png">
